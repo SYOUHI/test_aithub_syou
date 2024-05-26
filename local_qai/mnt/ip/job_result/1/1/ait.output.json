@@ -1,0 +1,41 @@
+{
+    "AIT": {
+        "Name": "test_aitsub_syou",
+        "Version": "1.0"
+    },
+    "ExecuteInfo": {
+        "StartDateTime": "2024-05-27T00:01:00+0900",
+        "EndDateTime": "2024-05-27T00:01:01+0900",
+        "MachineInfo": {
+            "cpu_brand": "13th Gen Intel(R) Core(TM) i9-13900H",
+            "cpu_arch": "X86_64",
+            "cpu_clocks": "2.9952 GHz",
+            "cpu_cores": "20",
+            "memory_capacity": "33452138496"
+        }
+    },
+    "Result": {
+        "Measures": [
+            {
+                "Name": "attr_count",
+                "Value": "39"
+            }
+        ],
+        "Resources": [
+            {
+                "Name": "combination_counts_plot",
+                "Path": "/usr/local/qai/mnt/ip/job_result/1/1/resources/combination_counts_plot/combination_counts_plot.jpg"
+            }
+        ],
+        "Downloads": [
+            {
+                "Name": "combination_counts_detail",
+                "Path": "/usr/local/qai/mnt/ip/job_result/1/1/downloads/combination_counts_detail/combination_counts_detail.csv"
+            },
+            {
+                "Name": "Log",
+                "Path": "/usr/local/qai/mnt/ip/job_result/1/1/downloads/Log/ait.log"
+            }
+        ]
+    }
+}

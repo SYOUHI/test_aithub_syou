@@ -1,0 +1,78 @@
+Combination,Count
+"('Road type', 'Weather') - ('General way', 'Fine')",1529
+"('Weather', 'Lighting') - ('Fine', 'Normal')",927
+"('Road type', 'Lighting') - ('General way', 'Normal')",891
+"('Weather', 'Lighting') - ('Fine', 'Low')",792
+"('Road type', 'Lighting') - ('General way', 'Low')",731
+"('Road type', 'Weather') - ('Highway', 'Fine')",213
+"('Road type', 'Lighting') - ('Highway', 'Normal')",129
+"('Weather', 'Lighting') - ('Fine', 'High')",106
+"('Weather', 'Lighting') - ('Cloudy', 'Normal')",105
+"('Road type', 'Weather') - ('General way', 'Cloudy')",99
+"('Road type', 'Lighting') - ('General way', 'High')",79
+"('Road type', 'Lighting') - ('Highway', 'Low')",77
+"('Road type', 'Weather') - ('Under bridge/FO', 'Fine')",60
+"('Road type', 'Weather') - ('General way', 'Rainy')",57
+"('Road type', 'Obstacle') - ('General way', 'Vehicle')",47
+"('Weather', 'Obstacle') - ('Fine', 'Vehicle')",44
+"('Road type', 'Lighting') - ('Under bridge/FO', 'Normal')",42
+"('Weather', 'Lighting') - ('Rainy', 'Normal')",37
+"('Lighting', 'Obstacle') - ('Normal', 'Vehicle')",35
+"('Weather', 'Obstacle') - ('Fine', 'Others')",33
+"('Road type', 'Obstacle') - ('General way', 'Others')",31
+"('Road type', 'Lighting') - ('Highway', 'High')",27
+"('Weather', 'Lighting') - ('Rainy', 'Low')",25
+"('Lighting', 'Obstacle') - ('Normal', 'Others')",24
+"('Weather', 'Lighting') - ('Undefined', 'Low')",20
+"('Road type', 'Lighting') - ('Under bridge/FO', 'Low')",20
+"('Road type', 'Lighting') - ('Undefined', 'Low')",17
+"('Road type', 'Lighting') - ('Parking lot/Gas station', 'Normal')",16
+"('Lighting', 'Obstacle') - ('Low', 'Vehicle')",15
+"('Road type', 'Weather') - ('Parking lot/Gas station', 'Fine')",14
+"('Road type', 'Weather') - ('Highway', 'Cloudy')",13
+"('Weather', 'Lighting') - ('Cloudy', 'Low')",12
+"('Lighting', 'Obstacle') - ('Low', 'Others')",11
+"('Road type', 'Weather') - ('Undefined', 'Undefined')",9
+"('Weather', 'Lighting') - ('Snowy', 'Normal')",7
+"('Road type', 'Weather') - ('General way', 'Undefined')",7
+"('Road type', 'Weather') - ('Undefined', 'Fine')",7
+"('Road type', 'Weather') - ('General way', 'Snowy')",7
+"('Road type', 'Weather') - ('Highway', 'Rainy')",5
+"('Weather', 'Obstacle') - ('Cloudy', 'Vehicle')",4
+"('Road type', 'Weather') - ('Parking lot/Gas station', 'Cloudy')",3
+"('Weather', 'Obstacle') - ('Rainy', 'Vehicle')",3
+"('Road type', 'Lighting') - ('Parking lot/Gas station', 'Low')",3
+"('Weather', 'Lighting') - ('Undefined', 'Normal')",2
+"('Lighting', 'Obstacle') - ('Low', 'Not sure')",2
+"('Weather', 'Lighting') - ('Foggy', 'Normal')",2
+"('Weather', 'Obstacle') - ('Undefined', 'Not sure')",2
+"('Road type', 'Obstacle') - ('Highway', 'Others')",2
+"('Road type', 'Lighting') - ('Tunnel', 'Normal')",2
+"('Road type', 'Weather') - ('Tunnel', 'Fine')",2
+"('Road type', 'Weather') - ('General way', 'Foggy')",2
+"('Road type', 'Obstacle') - ('Parking lot/Gas station', 'Vehicle')",2
+"('Road type', 'Obstacle') - ('Parking lot/Gas station', 'Others')",2
+"('Road type', 'Obstacle') - ('General way', 'Not sure')",2
+"('Road type', 'Weather') - ('Tunnel', 'Undefined')",2
+"('Road type', 'Weather') - ('Highway', 'Undefined')",2
+"('Road type', 'Lighting') - ('Tunnel', 'Low')",2
+"('Weather', 'Obstacle') - ('Undefined', 'Others')",1
+"('Road type', 'Weather') - ('Parking lot/Gas station', 'Snowy')",1
+"('Road type', 'Obstacle') - ('Under bridge/FO', 'Vehicle')",1
+"('Weather', 'Obstacle') - ('Cloudy', 'Undefined')",1
+"('Lighting', 'Obstacle') - ('High', 'Others')",1
+"('Lighting', 'Obstacle') - ('High', 'Vehicle')",1
+"('Lighting', 'Obstacle') - ('Low', 'Undefined')",1
+"('Weather', 'Obstacle') - ('Rainy', 'Others')",1
+"('Road type', 'Weather') - ('Parking lot/Gas station', 'Undefined')",1
+"('Weather', 'Obstacle') - ('Cloudy', 'Others')",1
+"('Weather', 'Obstacle') - ('Cloudy', 'Not sure')",1
+"('Road type', 'Obstacle') - ('Under bridge/FO', 'Others')",1
+"('Road type', 'Weather') - ('Undefined', 'Cloudy')",1
+"('Road type', 'Weather') - ('Under bridge/FO', 'Cloudy')",1
+"('Road type', 'Weather') - ('Under bridge/FO', 'Undefined')",1
+"('Weather', 'Lighting') - ('Snowy', 'Low')",1
+"('Road type', 'Obstacle') - ('Highway', 'Vehicle')",1
+"('Road type', 'Obstacle') - ('Undefined', 'Not sure')",1
+"('Road type', 'Obstacle') - ('Undefined', 'Undefined')",1
+"('Lighting', 'Obstacle') - ('Normal', 'Not sure')",1
