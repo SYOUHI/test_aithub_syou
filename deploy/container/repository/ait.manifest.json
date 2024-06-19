@@ -1,5 +1,5 @@
 {
-  "name": "test_aitsub_syou",
+  "name": "dev_ait_template_for_aithub_rename",
   "description": "【データの被覆性】を評価するため、データ内の属性組み合わせのレコード件数に着目し、レアケースやインバランスな傾向がないかを評価すること ※カテゴリー属性のみ対象となる",
   "source_repository": "https://github.com/SYOUHI/test_aithub_syou",
   "version": "1.0",
