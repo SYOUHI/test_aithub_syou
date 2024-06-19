@@ -149,7 +149,7 @@ if not is_ait_launch:
     from ait_sdk.common.files.ait_manifest_generator import AITManifestGenerator
     manifest_genenerator = AITManifestGenerator(current_dir)
     manifest_genenerator.set_ait_name('dev_ait_template_for_aithub_rename')
-    manifest_genenerator.set_ait_description('【データの被覆性】を評価するため、データ内の属性組み合わせのレコード件数に着目し、レアケースやインバランスな傾向がないかを評価すること ※カテゴリー属性のみ対象となる')
+    manifest_genenerator.set_ait_description('test_register_erro')
     manifest_genenerator.set_ait_source_repository('https://github.com/SYOUHI/test_aithub_syou')
     manifest_genenerator.set_ait_version('1.0')
     manifest_genenerator.add_ait_licenses('Apache License Version 2.0')
